@@ -1,0 +1,23 @@
+# sozluk={"freedom":"ozgurluk","house":"ev","human":"insan"}
+# print(sozluk)
+# sozluk={}
+# print={sozluk}
+# sozluk=dict()
+# print(sozluk)
+# sozluk={"freedom":"ozgurluk","house":"ev","human":"insan"}
+# print(sozluk["freedom"])
+# sozluk={"bir":[1,2,3,4],"iki":[[1,2],[3,4],[5,6]],"uc":15}
+# print(sozluk["iki"][2][1])
+# sozluk["iki"][2][1]=666
+# print(sozluk)
+# sozluk={"bir":1,"iki":2,"uc":3}
+# sozluk["dort"]=4
+# sozluk["doksan dokuz"]=99
+# print(sozluk)
+# sozluk={"sayilar":{"bir":1,"iki":2,"uc":3},"meyveler":{"kiraz":"yaz","portakal":"kis"}}
+# print(sozluk["sayilar"]["bir"])
+# print(sozluk["meyveler"]["kiraz"])
+# sozluk={"bir":1,"iki":2,"uc":3}
+# print(sozluk.values())
+# print(sozluk.keys())
+# print(sozluk.items())

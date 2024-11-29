@@ -1,0 +1,35 @@
+# # # # # # #input("Sayi Gir : ")
+# # # # # # # sayi1= int(input("Bir Sayi Gir : "))
+# # # # # # # #print(type(sayi1))
+# # # # # # # print("iki ile çarpimindan çikan sonuc",sayi1*2)
+# # # # # # sayi=19
+# # # # # # print(type(sayi))
+# # # # # # sayi=float(sayi)
+# # # # # # print(type(sayi))
+# # # # # # print(sayi)
+# # # # # print(-1)
+# # # # # print(float(-1))
+# # # # # sayi=5.77777777
+# # # # # print(sayi)
+# # # # # sayi=int()
+# # # # # sayi=7891
+# # # # # print(sayi)
+# # # # # print(type(sayi))
+# # # # # sayi=str(sayi)
+# # # # # print(sayi)
+# # # # # print(type(sayi))
+# # # # sayi=98989812
+# # # # sayi=str(sayi)
+# # # # print(len(sayi))
+# # # # yazi="17171717"
+# # # print(type(yazi))
+# # # yazi=int(yazi)
+# # # print(type(yazi))
+# # yazi="3.14"
+# # print(type(yazi))
+# # yazi=float(yazi)
+# # print(type(yazi))
+# sayi=int(input("Sayi Gir : "))
+# sayi2=int(input("Sayi Gir : "))
+# sayi3=int(input("Sayi Gir : "))
+# print("Toplam : ",sayi+sayi2+sayi3)
